@@ -7770,10 +7770,7 @@ osconfig.upgradeReports.list
 osconfig.upgradeReports.searchSummaries
 osconfig.vulnerabilityReports.get
 osconfig.vulnerabilityReports.list
-parametermanager.parameters.get
 parametermanager.parameters.list
-parametermanager.parameterversions.get
-parametermanager.parameterversions.list
 paymentsresellersubscription.products.list
 paymentsresellersubscription.promotions.list
 paymentsresellersubscription.subscriptions.cancel
